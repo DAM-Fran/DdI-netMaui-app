@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPractica.Pages.DetalleEmpleadoPage"
+             Title="DetalleEmpleadoPage">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+
+        <Label Text="{Binding Empleado.nombre}" 
+               FontSize="24"
+               FontAttributes="Bold" />
+
+        <Label Text="ID:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.id}" />
+
+        <Label Text="Departamento:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.departamento}" />
+
+        <Label Text="Email:" FontAttributes="Bold"/>
+        <Label Text="{Binding Empleado.email}" />
+
+    </VerticalStackLayout>
+
+</ContentPage>
