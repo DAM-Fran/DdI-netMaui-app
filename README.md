@@ -75,6 +75,5 @@ Proyecto académico desarrollado para la asignatura de **Desarrollo de Interface
 
 ## Autor
 
-**Franco Cayo**
-
-Alumno de 2º de Desarrollo de Aplicaciones Multiplataforma - Curso 2025/2026
+**Franco Cayo**  
+alumno de 2º de Desarrollo de Aplicaciones Multiplataforma – Curso 2025/2026
