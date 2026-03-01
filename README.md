@@ -1,11 +1,11 @@
 # DdI-netMaui-app
 Aplicación multiplataforma realizada con .NET MAUI en Visual Studio 2026 para consultar el directorio de empleados y departamentos de una API REST hecha en FastAPI.
 
-Descripción del proyecto
+## Descripción del proyecto
 Este proyecto forma parte de las prácticas de las asignaturas Desarrollo de Interfaces (DI) y Sistemas de Gestión Empresarial (SGE).
 La aplicación permite visualizar información de empleados y departamentos obtenida desde una API creada con FastAPI, mostrando los datos mediante una interfaz multiplataforma compatible con Windows, Android y otros dispositivos soportados por MAUI.
 
-Funcionalidades principales
+## Funcionalidades principales
 - Consulta de empleados.
 - Consulta de departamentos.
 - Navegación entre pantallas mediante Shell.
@@ -14,7 +14,7 @@ Funcionalidades principales
 - Interfaz adaptada a escritorio y móvil.
 - Gestión de estados y actualización de datos en tiempo real desde la API.
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 - .NET MAUI
 - C#
 - XAML
@@ -24,18 +24,18 @@ Tecnologías utilizadas
 - JSON para intercambio de datos
 - Visual Studio 2026
 
-Instalación y ejecución
+## Instalación y ejecución
 - Clonar el repositorio: git clone https://github.com/DAM-Fran/Ddl-netMaui-app
 - Abrir el archivo de solución: MauiPractica.slnx
 - Configurar la URL del backend FastAPI en el servicio correspondiente (si aplica).
 - Seleccionar plataforma de ejecución (Windows, Android…).
 - Ejecutar desde Visual Studio.
 
-Screenshots de la aplicación en pantalla
+## Screenshots de la aplicación en pantalla
 
 ![Captura de la aplicación](ruta/a/la/imagen.png)
 
-Estructura básica del proyecto
+## Estructura básica del proyecto
 MauiPractica/
 │
 ├── Models/          → Clases de datos
@@ -52,9 +52,9 @@ MauiPractica/
 ├── MauiProgram.cs   → Configuración de la app
 └── MauiPractica.csproj
 
-Licencia
+## Licencia
 Proyecto académico desarrollado para la asignatura Desarrollo de Interfaces (DI).
 
-Autor
+## Autor
 Franco Cayo
 alumno de 2º de Desarrollo de Aplicaciones Multiplataforma - Curso 2025/2026
