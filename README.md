@@ -36,6 +36,7 @@ La aplicación permite visualizar información de empleados y departamentos obte
 ![Captura de la aplicación](MauiPractica.png)
 
 ## Estructura básica del proyecto
+```
 MauiPractica/
 │
 ├── Models/          → Clases de datos
@@ -51,6 +52,7 @@ MauiPractica/
 ├── MainPage.xaml    → Página principal
 ├── MauiProgram.cs   → Configuración de la app
 └── MauiPractica.csproj
+```
 
 ## Licencia
 Proyecto académico desarrollado para la asignatura Desarrollo de Interfaces (DI).
