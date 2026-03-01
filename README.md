@@ -1,9 +1,13 @@
 # DdI-netMaui-app
 Aplicación multiplataforma realizada con .NET MAUI en Visual Studio 2026 para consultar el directorio de empleados y departamentos de una API REST hecha en FastAPI.
 
+---
+
 ## Descripción del proyecto
 Este proyecto forma parte de las prácticas de las asignaturas Desarrollo de Interfaces (DI) y Sistemas de Gestión Empresarial (SGE).
 La aplicación permite visualizar información de empleados y departamentos obtenida desde una API creada con FastAPI, mostrando los datos mediante una interfaz multiplataforma compatible con Windows, Android y otros dispositivos soportados por MAUI.
+
+---
 
 ## Funcionalidades principales
 - Consulta de empleados.
@@ -13,6 +17,8 @@ La aplicación permite visualizar información de empleados y departamentos obte
 - Consumo de API REST mediante servicios HTTP.
 - Interfaz adaptada a escritorio y móvil.
 - Gestión de estados y actualización de datos en tiempo real desde la API.
+
+---
 
 ## Tecnologías utilizadas
 - .NET MAUI
@@ -24,6 +30,8 @@ La aplicación permite visualizar información de empleados y departamentos obte
 - JSON para intercambio de datos
 - Visual Studio 2026
 
+---
+
 ## Instalación y ejecución
 - Clonar el repositorio: git clone https://github.com/DAM-Fran/Ddl-netMaui-app
 - Abrir el archivo de solución: MauiPractica.slnx
@@ -31,9 +39,13 @@ La aplicación permite visualizar información de empleados y departamentos obte
 - Seleccionar plataforma de ejecución (Windows, Android…).
 - Ejecutar desde Visual Studio.
 
+---
+
 ## Screenshots de la aplicación en pantalla
 
 ![Captura de la aplicación](MauiPractica.png)
+
+---
 
 ## Estructura básica del proyecto
 ```
@@ -54,9 +66,13 @@ MauiPractica/
 └── MauiPractica.csproj
 ```
 
+---
+
 ## Licencia
-Proyecto académico desarrollado para la asignatura Desarrollo de Interfaces (DI).
+Proyecto académico desarrollado para la asignatura de **Desarrollo de Interfaces (DI)**.
+
+---
 
 ## Autor
-Franco Cayo
+**Franco Cayo**
 alumno de 2º de Desarrollo de Aplicaciones Multiplataforma - Curso 2025/2026
