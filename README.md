@@ -41,7 +41,7 @@ La aplicación permite visualizar información de empleados y departamentos obte
 
 ---
 
-## Screenshots de la aplicación en pantalla
+## Screenshot de la aplicación en pantalla
 
 ![Captura de la aplicación](MauiPractica.png)
 
