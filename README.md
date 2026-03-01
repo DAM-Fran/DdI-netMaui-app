@@ -33,7 +33,7 @@ La aplicación permite visualizar información de empleados y departamentos obte
 
 ## Screenshots de la aplicación en pantalla
 
-![Captura de la aplicación](ruta/a/la/imagen.png)
+![Captura de la aplicación](MauiPractica.png)
 
 ## Estructura básica del proyecto
 MauiPractica/
