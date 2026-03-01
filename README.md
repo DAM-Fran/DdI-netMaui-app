@@ -17,7 +17,7 @@ La aplicación permite visualizar información de empleados y departamentos obte
 ## Tecnologías utilizadas
 - .NET MAUI
 - C#
-- **XAML**
+- XAML
 - MVVM (Model–View–ViewModel)
 - HttpClient para consumo de API
 - FastAPI como backend
